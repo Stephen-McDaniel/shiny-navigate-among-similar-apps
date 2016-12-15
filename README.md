@@ -16,5 +16,6 @@ In simplest case, you would place your apps in adjacent directories
 /app2/app.R
 /app3/app.R
 
-License: MIT License
+License: MIT License 
+
 Attribution, package authors for shiny and shinyjs packages on CRAN
