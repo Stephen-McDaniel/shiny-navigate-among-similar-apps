@@ -1,7 +1,7 @@
 # shiny-navigate-among-similar-apps
 Using Shiny with shinyjs, we can capture clicks/selections via inputs to redirect to another app.
 
-2016-12-15 in response to Google Groups thread by Sylvain on 2016-12-14
+2016-12-15 in response to Google Groups thread by Sylvain on 2016-12-14 at https://groups.google.com/forum/#!topic/shiny-discuss/YODirLvqH4c
 
 Program: app1/app.R (duplicated with minor changes to 
                      app2/app.r and app3/app.r)
